@@ -2,7 +2,7 @@
 
 Using Machine Learning to predict the liklihood of wildfire based on enviromantal and meteorological factors.
 
-#Steps
+### Steps
 - Module and data imports
 - Exploratory data analysis
 - Feature scaling
