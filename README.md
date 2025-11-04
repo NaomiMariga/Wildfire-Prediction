@@ -9,4 +9,4 @@ Using Machine Learning to predict the liklihood of wildfire based on enviromanta
 - Train-Test spliting
 - Use GridSearchCV to identify best hyperparameters based on (Root Mean Squared Error)RMSE
 - Training KneighborRegressor model based on the bestmodel
-- 
+  
